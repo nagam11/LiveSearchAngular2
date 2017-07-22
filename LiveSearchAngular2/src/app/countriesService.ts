@@ -11,23 +11,24 @@ import "rxjs/Rx";
 @Injectable()
 export class CountriesService {
   private headers: Headers;
-  private url = 'TODO';
+  private url = 'https://restcountries.eu/rest/v2/name/';
   options: RequestOptions;
   constructor(private http: Http) {
     this.headers = new Headers({ 'Content-Type': 'application/json' });
     this.options = new RequestOptions({ headers: this.headers });
   }
   private handleError(error: any): Promise<any> {
-    console.error('An error occurred', error); // for demo purposes only
-    return Promise.reject(error.message || error);
+    console.error('An error occurred', error);
+    let noResults: Array<any> = [];
+    return Promise.resolve(noResults);
   }
 
-  search(terms: Observable<string>, debounceMs = 400 ) {
-    return terms.debounceTime(400)
+  search(terms: Observable<string> ) {
+    return terms.debounceTime(300)
       .distinctUntilChanged()
-      .switchMap(term => this.rawsearch(term));
+      .switchMap(term => this.rawSearch(term));
   }
-  rawsearch(terms: string) {
+  rawSearch(terms: string) {
     return this.http.get(this.url + terms).toPromise()
       .then(this.extractDataGet)
       .catch(this.handleError);

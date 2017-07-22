@@ -6,16 +6,15 @@
   <div class="row">
     <div class="col-lg-12 col-centered">
       <div class="btn-toolbar">
-        <button *ngFor="let country of selectedCountries" class="btn skillsButton1" type="button">
+        <button *ngFor="let country of selectedCountries" class="btn skillsButton1" type="button" (click)="deleteCountry(country)">
           {{country.name}}
         </button>
       </div>
       <input class="form-control form-first-name customInputSkills" placeholder="Type to search for countries..." (input)="term.next($event.target.value)">
       <div class="btn-toolbar">
-        <div *ngFor="let item of countries">
-          <button class="btn skillsButton" type="button" (click)="sCountries(item)">
+          <button class="btn skillsButton" *ngFor="let item of countries" type="button" (click)="selectCountries(item)">
             {{item.name}}
-          </button></div>
+          </button>
       </div>
     </div>
   </div>

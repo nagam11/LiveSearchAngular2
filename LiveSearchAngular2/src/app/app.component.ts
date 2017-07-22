@@ -22,8 +22,15 @@ export class AppComponent {
   }
 
   // --save selected countries
-  sCountries(item: Country) {
-    this.selectedCountries.push(item);
+  selectCountries(item: Country) {
+    if ( this.selectedCountries.indexOf(item) == -1 ) {
+      this.selectedCountries.push(item);
+      }
+    }
+
+  // --delete selected country
+  deleteCountry(country: Country) {
+      this.selectedCountries = this.selectedCountries.filter(item => item !== country);
   }
 
 }

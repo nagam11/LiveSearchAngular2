@@ -2,8 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23795802-c098-4dbb-b0cd-fca5b35bdb2d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LiveSearchAngular2/src/app/Country.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LiveSearchAngular2/src/app/countriesService.ts" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/.angular-cli.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/e2e/app.e2e-spec.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/e2e/app.po.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/e2e/tsconfig.e2e.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/npm-debug.log.4146122437" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/protractor.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/src/app/Country.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/src/app/app.component.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/src/app/app.component.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/src/app/app.component.spec.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/src/app/app.component.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/src/app/app.module.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/src/app/countriesService.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/src/assets/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/src/environments/environment.prod.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/src/environments/environment.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/src/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/src/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/src/main.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/src/polyfills.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/src/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/src/test.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/src/tsconfig.app.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/src/tsconfig.spec.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/src/typings.d.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/tsconfig.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/frontend/LiveSearchAngular2/tslint.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,7 +48,38 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="app.component.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LiveSearchAngular2/src/app/app.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="695">
+              <caret line="51" column="10" lean-forward="false" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LiveSearchAngular2/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.spec.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LiveSearchAngular2/src/app/app.component.spec.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,10 +90,11 @@
         <option value="$PROJECT_DIR$/LiveSearchAngular2/src/app/app.component.css" />
         <option value="$PROJECT_DIR$/LiveSearchAngular2/src/app/Country.ts" />
         <option value="$PROJECT_DIR$/LiveSearchAngular2/src/app/app.component.spec.ts" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/src/app/countriesService.ts" />
         <option value="$PROJECT_DIR$/LiveSearchAngular2/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/frontend/LiveSearchAngular2/src/app/countriesService.ts" />
         <option value="$PROJECT_DIR$/LiveSearchAngular2/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/LiveSearchAngular2/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/LiveSearchAngular2/src/app/countriesService.ts" />
       </list>
     </option>
   </component>
@@ -63,7 +126,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -132,6 +194,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -193,6 +256,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -227,18 +296,21 @@
       <option name="presentableId" value="Default" />
       <updated>1499641333635</updated>
       <workItem from="1499641335933" duration="366000" />
-      <workItem from="1499641996929" duration="1939000" />
+      <workItem from="1499641996929" duration="2409000" />
+      <workItem from="1500682604709" duration="41000" />
+      <workItem from="1500682661320" duration="1551000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2305000" />
+    <option name="totallyTimeSpent" value="4367000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -258,53 +330,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/reflect-metadata/test/reflect-hasmetadata.js" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/reflect-metadata/test/reflect-hasmetadata.js.map" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/reflect-metadata/test/reflect-deletemetadata.js" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/reflect-metadata/test/reflect-deletemetadata.js.map" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/reflect-metadata/test/reflect-decorate.js" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/reflect-metadata/test/reflect-decorate.js.map" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/reflect-metadata/test/reflect-hasownmetadata.js" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/reflect-metadata/test/reflect-hasownmetadata.js.map" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/reflect-metadata/test/reflect-getownmetadatakeys.js" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/reflect-metadata/test/reflect-getownmetadatakeys.js.map" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/reflect-metadata/test/reflect-getownmetadata.js" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/reflect-metadata/test/reflect-getownmetadata.js.map" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/reflect-metadata/test/reflect-getmetadata.js" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/reflect-metadata/test/reflect-getmetadata.js.map" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/reflect-metadata/test/reflect-metadata.js" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/reflect-metadata/test/reflect-metadata.js.map" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/reflect-metadata/test/reflect-getmetadatakeys.js" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/reflect-metadata/test/reflect-getmetadatakeys.js.map" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/reflect-metadata/test/reflect-definemetadata.js" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/reflect-metadata/test/reflect-definemetadata.js.map" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/reflect-metadata/Reflect.js" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/reflect-metadata/Reflect.js.map" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/@angular/cli/blueprints/interface/index.js" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/@angular/cli/blueprints/interface/index.js.map" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/@angular/cli/blueprints/directive/index.js" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/@angular/cli/blueprints/directive/index.js.map" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/@angular/cli/blueprints/component/index.js" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/@angular/cli/blueprints/component/index.js.map" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/@angular/cli/blueprints/service/index.js" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/@angular/cli/blueprints/service/index.js.map" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/@angular/cli/blueprints/module/index.js" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/@angular/cli/blueprints/module/index.js.map" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/@angular/cli/blueprints/guard/index.js" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/@angular/cli/blueprints/guard/index.js.map" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/@angular/cli/blueprints/class/index.js" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/@angular/cli/blueprints/class/index.js.map" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/@angular/cli/blueprints/pipe/index.js" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/@angular/cli/blueprints/pipe/index.js.map" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/@angular/cli/blueprints/enum/index.js" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/@angular/cli/blueprints/enum/index.js.map" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/@angular/cli/blueprints/ng/index.js" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/@angular/cli/blueprints/ng/index.js.map" />
-        <option value="$PROJECT_DIR$/LiveSearchAngular2/node_modules/karma/config.tpl.js" />
-      </list>
-    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -314,70 +339,59 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/frontend/LiveSearchAngular2/src/app/countriesService.ts" />
+    <entry file="file://$PROJECT_DIR$/LiveSearchAngular2/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LiveSearchAngular2/src/app/Country.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LiveSearchAngular2/src/app/countriesService.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#41#87#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LiveSearchAngular2/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#58#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LiveSearchAngular2/src/app/app.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#55#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="300">
+          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LiveSearchAngular2/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="3" lean-forward="false" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LiveSearchAngular2/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#src#0;n#img#0;n#div#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LiveSearchAngular2/src/app/app.component.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="762">
+        <state relative-caret-position="695">
           <caret line="51" column="10" lean-forward="false" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiveSearchAngular2/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiveSearchAngular2/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
           <folding />
         </state>
       </provider>
