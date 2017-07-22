@@ -10,8 +10,8 @@
           {{country.name}}
         </button>
       </div>
-      <input class="form-control form-first-name customInputSkills" placeholder="Type to search for countries..." (input)="term.next($event.target.value)">
-      <div class="btn-toolbar">
+      <input class="form-control customInput" placeholder="Type to search for countries..." (input)="term.next($event.target.value)">
+      <div class="btn-toolbar col-log-6 col-centered">
           <button class="btn skillsButton" *ngFor="let item of countries" type="button" (click)="selectCountries(item)">
             {{item.name}}
           </button>
